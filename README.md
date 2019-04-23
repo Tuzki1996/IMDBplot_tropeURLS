@@ -19,7 +19,7 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/FantasticBeastsAndWhereToFindThem
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheHatefulEight
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Vacation
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Criminal
-https://tvtropes.org/pmwiki/pmwiki.php/Film/AvengersInfinityWar
+https://tvtropes.org/pmwiki/pmwiki.php/AvengersInfinityWar/TropesAToD
 https://tvtropes.org/pmwiki/pmwiki.php/Film/BridgeOfSpies
 https://tvtropes.org/pmwiki/pmwiki.php/Film/UnfinishedBusiness
 https://tvtropes.org/pmwiki/pmwiki.php/Film/FreaksOfNature
